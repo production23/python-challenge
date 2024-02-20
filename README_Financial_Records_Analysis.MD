@@ -9,21 +9,21 @@ the changes in profit/losses over the period with the average change, the greate
 and the greatest decrease in profits.
 
 ##  Use
-1. Place the budget_data.csv file in the same directory as the script.
-2. Run the script by executing python financial_analysis.py.
+- Place the budget_data.csv file in the same directory as the script.
+- Run the script by executing python financial_analysis.py.
 
 ## Output
 
-1. Total number of months in the dataset.
-2. Net total amount of profit/losses over the entire period.
-3. Average change in profit/losses over the period.
-4. Greatest increase in profits, data and amount.
-5. Greatest decrease in profits, data and amount.
+- Total number of months in the dataset.
+- Net total amount of profit/losses over the entire period.
+- Average change in profit/losses over the period.
+- Greatest increase in profits, data and amount.
+- Greatest decrease in profits, data and amount.
 
 ## Files
 
-1. Budget_data.csv: Input CSV file containing financial records.
-2. Financial_analysis.py: Python script for analyzing financial records.
+- Budget_data.csv: Input CSV file containing financial records.
+- Financial_analysis.py: Python script for analyzing financial records.
 
-- asdfajsdfkajsdf;lasdf
-- as;ldfkja;sdlfkjasd;fla
+## Summary
+Overall, the election data analysis script provides a comprehensive overview of the election results, including voter turnout, candidate performance, and the winning candidate.
