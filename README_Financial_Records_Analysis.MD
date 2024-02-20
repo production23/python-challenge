@@ -14,13 +14,13 @@ and the greatest decrease in profits.
 
 ## Output
 
-Total number of months in the dataset.
--Net total amount of profit/losses over the entire period.
--Average change in profit/losses over the period.
--Greatest increase in profits, data and amount.
--Greatest decrease in profits, data and amount.
+1. Total number of months in the dataset.
+2. Net total amount of profit/losses over the entire period.
+3. Average change in profit/losses over the period.
+4. Greatest increase in profits, data and amount.
+5. Greatest decrease in profits, data and amount.
 
 ## Files
 
--budget_data.csv: Input CSV file containing financial records.
--financial_analysis.py: Python script for analyzing financial records.
+1. Budget_data.csv: Input CSV file containing financial records.
+2. Financial_analysis.py: Python script for analyzing financial records.
