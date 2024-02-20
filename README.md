@@ -9,7 +9,7 @@ This Python script analyzes election data from the election_data.csv file. It ca
 2. Place election_data.csv in the script directory.
 3. Run the script (python election_analysis.py).
 
-#### Output
+### Output
 
 'Total votes cast
 'List of candidates who received votes
@@ -17,6 +17,6 @@ This Python script analyzes election data from the election_data.csv file. It ca
 'Total votes each candidate won
 'Winner of the election
 
-#####  Dependencies 
+###  Dependencies 
 
 'csv module
