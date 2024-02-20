@@ -19,4 +19,4 @@ This Python script analyzes election data from the election_data.csv file. It ca
 
 ###  Dependencies 
 
-'csv module
+' csv module
